@@ -1,6 +1,3 @@
-<style>
-body {
-    background-color: red;
-}
-</style>
+<link href="./style.css" rel="stylesheet"> 
+
 # Hello World!
