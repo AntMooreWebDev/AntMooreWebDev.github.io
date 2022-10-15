@@ -1,3 +1,7 @@
 .markdown-body >h1:first-of-type {
     display: none;
 }
+
+.date {
+    font-size: 0.5rem;
+}
